@@ -1,5 +1,7 @@
 # Weather-App
-This is a simple web-based Weather App that allows users to check the current weather conditions of a city.
+This is a simple web-based Weather App that allows users to check the current weather conditions of a city.<br>
+Click the link to see the project looks and works:<br>
+https://thiwanka-dot.github.io/Weather-App/
 
 ### Features
 Enter the name of a city to view its current weather.<br>
